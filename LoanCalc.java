@@ -47,10 +47,7 @@ public class LoanCalc {
 			iterationCounter++;
 		}
 		return g;
-    public static double bruteForceSolver(double loan, double rate, int n, double epsilon) {
-		// Replace the following statement with your code
-		return 0;
-    }
+	}
     
     // Uses bisection search to compute an approximation of the periodical payment 
 	// that will bring the ending balance of a loan close to 0.

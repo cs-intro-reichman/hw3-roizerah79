@@ -69,10 +69,6 @@ public class Anagram {
 		return propstr;
 	}
 		
-	 
-		// Replace the following statement with your code
-		return "";
-	} 
 	   
 	// Returns a random anagram of the given string. The random anagram consists of the same
 	// characters as the given string, re-arranged in a random order. 
@@ -85,7 +81,5 @@ public class Anagram {
 			str = str.substring(0, rnd) + str.substring(rnd+1, str.length()); 
 		}
 		return newstr;
-		// Replace the following statement with your code
-		return "";
 	}
 }

@@ -47,7 +47,7 @@ public class TestAnagram {
         totalTests += 4;
 
         // Test case 1: Simple lowercase
-        boolean test1 = Anagram.preProcess("abc").equals("abc");
+        boolean test1 = Anagram.preProcess("ABC").equals("abc");
         System.out.println("Test 1 (simple lowercase): " + (test1 ? "PASS" : "FAIL"));
         
         // Test case 2: Preserve spaces
