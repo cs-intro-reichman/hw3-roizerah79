@@ -90,6 +90,8 @@ public class Algebra {
 				ans = plus(ans, x1);
 		}}
 		return ans;
+		// Replace the following statement with your code
+		return 0;
 	}
 
 	// Returns x^n (for n >= 0)
@@ -138,6 +140,8 @@ public class Algebra {
 			}
 		}
 		return ans;
+		// Replace the following statement with your code
+		return 0;
 	}
 
 	// Returns x1 % x2
@@ -161,6 +165,8 @@ public class Algebra {
 			}
 		}
 		return x1;
+		// Replace the following statement with your code
+		return 0;
 	}	
 
 	// Returns the integer part of sqrt(x) 
@@ -176,6 +182,7 @@ public class Algebra {
 				return i;
 			}
 		}
+		// Replace the following statement with your code
 		return 0;
 	}	  	  
 }
